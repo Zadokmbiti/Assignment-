@@ -1,4 +1,5 @@
-# Assignment- index is the HTML code for exercise 1
+# Assignment- 
+index is the HTML code for exercise 1
 login.php is the PHP code for exercise 1
 style.ex1 is the CSS code for exercise 1
 validate.ex2 is the HTML code for exercise 2
